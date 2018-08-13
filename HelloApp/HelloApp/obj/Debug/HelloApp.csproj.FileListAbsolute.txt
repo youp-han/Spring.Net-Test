@@ -1,0 +1,10 @@
+C:\Users\han.sungyoup01\Documents\Visual Studio 2008\Projects\HelloApp\HelloApp\bin\Debug\HelloApp.exe
+C:\Users\han.sungyoup01\Documents\Visual Studio 2008\Projects\HelloApp\HelloApp\bin\Debug\HelloApp.pdb
+C:\Users\han.sungyoup01\Documents\Visual Studio 2008\Projects\HelloApp\HelloApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\han.sungyoup01\Documents\Visual Studio 2008\Projects\HelloApp\HelloApp\obj\Debug\HelloApp.exe
+C:\Users\han.sungyoup01\Documents\Visual Studio 2008\Projects\HelloApp\HelloApp\obj\Debug\HelloApp.pdb
+C:\Users\han.sungyoup01\Documents\Visual Studio 2008\Projects\HelloApp\HelloApp\bin\Debug\HelloApp.exe.config
+C:\Users\han.sungyoup01\Documents\Visual Studio 2008\Projects\HelloApp\HelloApp\bin\Debug\Spring.Core.dll
+C:\Users\han.sungyoup01\Documents\Visual Studio 2008\Projects\HelloApp\HelloApp\bin\Debug\Common.Logging.dll
+C:\Users\han.sungyoup01\Documents\Visual Studio 2008\Projects\HelloApp\HelloApp\bin\Debug\Spring.Core.pdb
+C:\Users\han.sungyoup01\Documents\Visual Studio 2008\Projects\HelloApp\HelloApp\bin\Debug\Spring.Core.xml
