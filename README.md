@@ -4,4 +4,8 @@
 
 2 different Hello classes with Same sayHello Methods using Interface IHello.
 
-this Spring DI demonstrate the simplest way to do it!
+From Main program.cs, it calls the interface in order to run the method.
+
+App.Config contains spring information along with DI information.
+
+this Spring DI demonstrate the simplest way of DI in Spring.Net Core
