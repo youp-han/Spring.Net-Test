@@ -1,7 +1,0 @@
-C:\Users\han.sungyoup01\Documents\Visual Studio 2008\Projects\HelloApps\Hello\bin\Debug\IHello.dll
-C:\Users\han.sungyoup01\Documents\Visual Studio 2008\Projects\HelloApps\Hello\bin\Debug\IHello.pdb
-C:\Users\han.sungyoup01\Documents\Visual Studio 2008\Projects\HelloApps\Hello\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\han.sungyoup01\Documents\Visual Studio 2008\Projects\HelloApps\Hello\bin\Debug\Hello1.dll
-C:\Users\han.sungyoup01\Documents\Visual Studio 2008\Projects\HelloApps\Hello\bin\Debug\Hello1.pdb
-C:\Users\han.sungyoup01\Documents\Visual Studio 2008\Projects\HelloApps\Hello\obj\Debug\Hello1.dll
-C:\Users\han.sungyoup01\Documents\Visual Studio 2008\Projects\HelloApps\Hello\obj\Debug\Hello1.pdb
