@@ -1,6 +1,6 @@
 # Spring.Net-Test
 
-# First Spring.Net test (HelloApp)
+# First Spring.Net DI test (HelloApp)
 
 2 different Hello classes with Same sayHello Methods using Interface IHello.
 
@@ -10,7 +10,7 @@ App.Config contains spring information along with DI information.
 
 this Spring DI demonstrate the simplest way of DI in Spring.Net Core
 
-# First Spring.Net test (HelloApps2)
+# First Spring.Net DI test (HelloApps2)
 
 It is same as the "HelloApp" but with different project structure.
 
